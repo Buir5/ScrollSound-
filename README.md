@@ -77,25 +77,3 @@ Windows 10 / 11 · 单文件 105 KB · 免安装 · 不联网
 ## 作者
 
 作者：[**知乎老哥**](https://www.zhihu.com/people/svip3) —— 点开在新窗口打开
-
-写这种小工具纯属自己用着爽，顺手扔出来。有问题去知乎找我，别在 Issues 里吵架。
-
----
-
-## 请老哥喝瓶水
-
-如果它确实让你少点了那么几千次鼠标：
-
-[**→ 打赏入口**](https://zhupay.com/paypage/?merchant=d9e9%2F3KSmVJ6n3B2JC114CSvBKI4iK6dlK274qdosIQU)
-
-![赞赏码](https://github.com/user-attachments/assets/edb0a3d0-099a-4d4e-aeb7-08c9869b287f)
-
-打赏时**备注上你的 ID**，下个版本更新我会把名字挂上来。说到做到。
-
----
-
-## 最后
-
-代码没开源，因为里面没什么好看的——一个钩子、一个音量接口、一个托盘图标。
-
-但它是免费的，也是干净的。用着舒服就留着，不舒服就删掉，别客气。
