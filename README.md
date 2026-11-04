@@ -5,11 +5,6 @@
 > 从「发现一个痛点」→「写个几百行的小工具」→「挂上资源位」→「有人付钱」，全流程我在这篇里讲透了。
 > 想学这门手艺的，点这里：**[👉 收徒说明（知乎）](https://zhuanlan.zhihu.com/p/54351262)**
 
-> **🧭 收徒 · 我靠这套路子吃饭，你也可以**
->
-> 从「发现一个痛点」→「写个几百行的小工具」→「挂上资源位」→「有人付钱」，全流程我在这篇里讲透了。
-> 想学这门手艺的，点这里：**[👉 收徒说明（知乎）](https://zhuanlan.zhihu.com/p/54351262)**
-
 # ScrollSound
 
 **鼠标滚一下任务栏，音量就变了。**
@@ -106,11 +101,6 @@ How much does one notch change? One notch, step matching the system volume step.
 ## Author
 
 [知乎老哥](https://www.zhihu.com/people/svip3) — MIT licensed, keep the credit if you redistribute.
-
-> **🧭 收徒 · 我靠这套路子吃饭，你也可以**
->
-> 从「发现一个痛点」→「写个几百行的小工具」→「挂上资源位」→「有人付钱」，全流程我在这篇里讲透了。
-> 想学这门手艺的，点这里：**[👉 收徒说明（知乎）](https://zhuanlan.zhihu.com/p/54351262)**
 
 > **🧭 收徒 · 我靠这套路子吃饭，你也可以**
 >
