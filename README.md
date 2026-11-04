@@ -8,8 +8,6 @@
 收徒 · 我靠这套路子吃饭，你也可以**
 >
 > 从「发现一个痛点」→「写个几百行的小工具」→「挂上资源位」→「有人付钱」，全流程我在这篇里讲透了。
-> 想学这门手艺的，点这里：**[👉 收徒说明（知乎）](https://zhuanlan.zhihu.com/p/54351262)**
-
 # ScrollSound
 
 **鼠标滚一下任务栏，音量就变了。**
@@ -80,8 +78,6 @@ Windows 10 / 11 · 单文件 105 KB · 免安装 · 不联网
 
 <a id=english></a>
 
----
-
 # ScrollSound
 
 > Scroll the empty area of the Windows taskbar — system volume changes. One 105 KB exe, no installer.
@@ -112,7 +108,6 @@ How much does one notch change? One notch, step matching the system volume step.
  收徒 · 我靠这套路子吃饭，你也可以**
 >
 > 从「发现一个痛点」→「写个几百行的小工具」→「挂上资源位」→「有人付钱」，全流程我在这篇里讲透了。
-> 想学这门手艺的，点这里：**[👉 收徒说明（知乎）](https://zhuanlan.zhihu.com/p/54351262)**
 
 > **🧭 收徒 · 我靠这套路子吃饭，你也可以**
 >
